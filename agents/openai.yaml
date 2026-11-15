@@ -1,0 +1,4 @@
+interface:
+  display_name: "大昀精选视频.skill"
+  short_description: "复用大昀精选信息视频的片头、语义剪辑、顺滑转场、渐进字幕与手绘节奏"
+  default_prompt: "Use $dayun-featured-video to turn this script or existing edit into a 大昀精选风格视频。"
