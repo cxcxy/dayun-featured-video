@@ -16,7 +16,7 @@ Skill 名称：`dayun-featured-video`。适合流程讲解、精选风格重剪�
 
 ## 安装到 Codex
 
-需要 Git 和此仓库的读取权限。当前仓库为私有，克隆前须配置 GitHub 身份认证。
+需要 Git。仓库已公开，可直接克隆，无需 GitHub 身份认证。
 
 当目标目录不存在时：
 
